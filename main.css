@@ -165,3 +165,6 @@
     color:gray;
     text-decoration-line: line-through;
 }
+.products:hover{
+    cursor:pointer;
+}
