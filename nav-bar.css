@@ -82,11 +82,11 @@ nav{
     border-radius:50%;
     transition:all 0.15s;
 }
-.nav-button:hover{
+.topup-button:hover,.cart-button:hover,.signup-button:hover{
     background-color:rgb(235, 235, 235);
     cursor:pointer;
 }
-.nav-button:active{
+.topup-button:active,.cart-button:active,.signup-button:active{
     background-color:rgb(221, 221, 221);
 }
 .nav-icon{
